@@ -219,6 +219,18 @@ h2.like {
         justify-content: center;
         margin-left: 0px;
     }
+
+    #intro-box {
+        width: 100%;
+    }
+
+    .intro {
+        width: 100%;
+    }
+
+    p {
+        padding: 20px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -236,6 +248,18 @@ h2.like {
 
     nav {
         margin-left: 0px;
+    }
+
+    #intro-box {
+        width: 100%;
+    }
+
+    .intro {
+        width: 100%;
+    }
+
+    p {
+        padding: 20px;
     }
     
   }
@@ -297,6 +321,7 @@ h2.like {
 
       p {
           text-align: center;
+          padding: 20px;
       }
 
       .email-phone {
